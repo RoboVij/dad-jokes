@@ -1,3 +1,14 @@
+# codersgit website
+A React app that generates dad jokes.
+
+# Technologies
+* ReactJS
+* JavaScript
+* CSS
+* HTML
+* Rest API
+
+# Setup
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
